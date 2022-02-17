@@ -1,0 +1,15 @@
+/Users/alekseirumiantsev/Desktop/Examples/DZ28/bin/Debug/net6.0/DZ28
+/Users/alekseirumiantsev/Desktop/Examples/DZ28/bin/Debug/net6.0/DZ28.deps.json
+/Users/alekseirumiantsev/Desktop/Examples/DZ28/bin/Debug/net6.0/DZ28.runtimeconfig.json
+/Users/alekseirumiantsev/Desktop/Examples/DZ28/bin/Debug/net6.0/DZ28.dll
+/Users/alekseirumiantsev/Desktop/Examples/DZ28/bin/Debug/net6.0/ref/DZ28.dll
+/Users/alekseirumiantsev/Desktop/Examples/DZ28/bin/Debug/net6.0/DZ28.pdb
+/Users/alekseirumiantsev/Desktop/Examples/DZ28/obj/Debug/net6.0/DZ28.csproj.AssemblyReference.cache
+/Users/alekseirumiantsev/Desktop/Examples/DZ28/obj/Debug/net6.0/DZ28.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alekseirumiantsev/Desktop/Examples/DZ28/obj/Debug/net6.0/DZ28.AssemblyInfoInputs.cache
+/Users/alekseirumiantsev/Desktop/Examples/DZ28/obj/Debug/net6.0/DZ28.AssemblyInfo.cs
+/Users/alekseirumiantsev/Desktop/Examples/DZ28/obj/Debug/net6.0/DZ28.csproj.CoreCompileInputs.cache
+/Users/alekseirumiantsev/Desktop/Examples/DZ28/obj/Debug/net6.0/DZ28.dll
+/Users/alekseirumiantsev/Desktop/Examples/DZ28/obj/Debug/net6.0/ref/DZ28.dll
+/Users/alekseirumiantsev/Desktop/Examples/DZ28/obj/Debug/net6.0/DZ28.pdb
+/Users/alekseirumiantsev/Desktop/Examples/DZ28/obj/Debug/net6.0/DZ28.genruntimeconfig.cache
